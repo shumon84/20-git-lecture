@@ -5,4 +5,5 @@
 - 例)山田太郎 妹の名前は花子
 - shumon Go言語と映画が好きです。
 
--mizuki shinozaki です
+-mizuki shinozaki です。
+っっk
